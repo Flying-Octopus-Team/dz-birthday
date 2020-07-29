@@ -1,0 +1,24 @@
+[gd_scene format=2]
+
+[node name="CPUParticles2D" type="CPUParticles2D"]
+amount = 100
+lifetime = 2.0
+explosiveness = 0.74
+spread = 180.0
+initial_velocity = 290.32
+angular_velocity = 363.87
+angular_velocity_random = 1.0
+orbit_velocity = 0.2
+orbit_velocity_random = 0.5
+linear_accel = 4.3
+linear_accel_random = 0.52
+radial_accel = 10.75
+radial_accel_random = 0.49
+tangential_accel = -21.51
+tangential_accel_random = 0.93
+angle = 30.9
+angle_random = 0.42
+scale_amount = 20.0
+color = Color( 0.878431, 0.180392, 0.180392, 1 )
+hue_variation = 1.0
+hue_variation_random = 1.0
